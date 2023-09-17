@@ -1,0 +1,16 @@
+html, body {
+    margin: 0px;
+    padding: 50px;
+    background:url("/ai.jpeg");
+    background-size: cover;
+    
+    
+  }
+  canvas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  
